@@ -11,7 +11,6 @@ It checks for:
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/zadanaas/password_strength_checker.git
    cd password_strength_checker
    python password_strength_checker.py
 
