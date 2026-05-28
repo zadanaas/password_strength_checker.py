@@ -12,5 +12,5 @@ It checks for:
 1. Clone the repository:
    ```bash
    cd password_strength_checker
-   python password_strength_checker.py
+   python3 password_strength_checker.py
 
